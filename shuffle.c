@@ -47,12 +47,12 @@ void shuffle(int *x, int n, int seed)
     if (seed < 0)
         seed = time(NULL);
     if (seed > 0)
-	srandom(seed);
+	srand(seed);
 
     /* Build array of pairs */
     for (j = 0; j < n; j++) {
         pairs[j].value = x[j];
-        pairs[j].rand = random();
+        pairs[j].rand = rand();
     }
 
     /* Sort pairs array according to their rand element */

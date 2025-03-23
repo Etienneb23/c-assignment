@@ -1,0 +1,18 @@
+2 cards face up: 9 3   Cards don't add to 11; start a new pile
+3 cards face up: 9 3 11   Cards don't add to 11; start a new pile
+4 cards face up: 9 3 11 5   Cards don't add to 11; start a new pile
+5 cards face up: 9 3 11 5 13   Cards don't add to 11; start a new pile
+6 cards face up: 9 3 11 5 13 9   Cards don't add to 11; start a new pile
+7 cards face up: 9 3 11 5 13 9 11   Cards don't add to 11; start a new pile
+8 cards face up: 9 3 11 5 13 9 11 8   3 and 8 add to 11; cover with new cards
+8 cards face up: 9 7 11 5 13 9 11 2   9 and 2 add to 11; cover with new cards
+8 cards face up: 6 7 11 5 13 9 11 12   6 and 5 add to 11; cover with new cards
+8 cards face up: 3 7 11 9 13 9 11 12   J, Q, K visible; cover with new cards
+8 cards face up: 3 7 3 9 6 9 11 8   3 and 8 add to 11; cover with new cards
+8 cards face up: 1 7 3 9 6 9 11 4   7 and 4 add to 11; cover with new cards
+8 cards face up: 1 12 3 9 6 9 11 3   Cards don't add to 11; start a new pile
+9 cards face up: 1 12 3 9 6 9 11 3 10   1 and 10 add to 11; cover with new cards
+9 cards face up: 5 12 3 9 6 9 11 3 12   5 and 6 add to 11; cover with new cards
+9 cards face up: 3 12 3 9 4 9 11 3 12   Cards don't add to 11; start a new pile
+Sorry you lost, 10 piles have been created :(
+Cards left in pack: 25

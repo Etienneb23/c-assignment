@@ -1,0 +1,28 @@
+2 cards face up: 2 9   2 and 9 add to 11; cover with new cards
+2 cards face up: 3 10   Cards don't add to 11; start a new pile
+3 cards face up: 3 10 1   10 and 1 add to 11; cover with new cards
+3 cards face up: 3 8 5   3 and 8 add to 11; cover with new cards
+3 cards face up: 12 12 5   Cards don't add to 11; start a new pile
+4 cards face up: 12 12 5 7   Cards don't add to 11; start a new pile
+5 cards face up: 12 12 5 7 4   7 and 4 add to 11; cover with new cards
+5 cards face up: 12 12 5 4 7   4 and 7 add to 11; cover with new cards
+5 cards face up: 12 12 5 6 8   5 and 6 add to 11; cover with new cards
+5 cards face up: 12 12 13 8 8   Cards don't add to 11; start a new pile
+6 cards face up: 12 12 13 8 8 6   Cards don't add to 11; start a new pile
+7 cards face up: 12 12 13 8 8 6 10   Cards don't add to 11; start a new pile
+8 cards face up: 12 12 13 8 8 6 10 12   Cards don't add to 11; start a new pile
+9 cards face up: 12 12 13 8 8 6 10 12 1   10 and 1 add to 11; cover with new cards
+9 cards face up: 12 12 13 8 8 6 3 12 3   8 and 3 add to 11; cover with new cards
+9 cards face up: 12 12 13 11 8 6 4 12 3   8 and 3 add to 11; cover with new cards
+9 cards face up: 12 12 13 11 13 6 4 12 10   J, Q, K visible; cover with new cards
+9 cards face up: 5 12 2 9 13 6 4 12 10   5 and 6 add to 11; cover with new cards
+9 cards face up: 6 12 2 9 13 11 4 12 10   2 and 9 add to 11; cover with new cards
+9 cards face up: 6 12 9 3 13 11 4 12 10   J, Q, K visible; cover with new cards
+9 cards face up: 6 11 9 3 13 11 4 12 10   J, Q, K visible; cover with new cards
+9 cards face up: 6 7 9 3 4 11 4 3 10   7 and 4 add to 11; cover with new cards
+9 cards face up: 6 8 9 3 7 11 4 3 10   8 and 3 add to 11; cover with new cards
+9 cards face up: 6 5 9 13 7 11 4 3 10   6 and 5 add to 11; cover with new cards
+9 cards face up: 5 6 9 13 7 11 4 3 10   5 and 6 add to 11; cover with new cards
+9 cards face up: 4 1 9 13 7 11 4 3 10   4 and 7 add to 11; cover with new cards
+9 cards face up: 10 1 9 13 1 11 4 3 10   10 and 1 add to 11; cover with new cards
+Congratulations you won! 52 cards have been played :)
